@@ -1,0 +1,15 @@
+.idea
+*.pyc
+*.zip
+*.pth
+tools/*
+pretrains
+assets/samples
+outputs/results
+*debug.sh
+*debug.py
+*build
+*dist
+thirdparty/neural_renderer/files.txt
+piao_scripts
+.DS_Store
